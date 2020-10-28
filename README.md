@@ -18,3 +18,9 @@ These programs were made as homeworks, therefore, these are my codes written acc
     W if the first player wins,
     D if there is a draw,
     L if the first player lost.
+
+
+  Ludo - an easy "game":
+  
+  The program for the "game" function prints a random game (it shifts by the number of squares in the playing field thrown on the dice, you must roll a six to start, you can roll another six for the next roll) for a given length of the field and the probability of a six roll. The "average game" function also returns the average game length (number of rounds) for a given field length, the number of games and the probability of a six roll.
+  
